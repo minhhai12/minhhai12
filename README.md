@@ -2,7 +2,7 @@
 
 <p>🔭 I’m currently working at UPC</p>
 <p>🌱 I’m currently learning ReactJS, Python, PHP for Web</p>
-<p>⚡ Fun fact: <i>All street foods</i> is the best</p>
+<p>⚡ Fun fact: <i>All street foods</i> are the best</p>
 
 <br/>
 
